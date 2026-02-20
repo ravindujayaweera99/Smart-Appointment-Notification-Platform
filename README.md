@@ -1,1 +1,0 @@
-# Smart-Appointment-Notification-Platform
